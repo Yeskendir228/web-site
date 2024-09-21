@@ -1,0 +1,42 @@
+.bilms_team{
+    text-align: center;
+    color: blue;
+    margin-top: 70px;
+}
+
+body{
+    background-color: aqua;
+}
+
+.persons{
+    
+    margin-top: 100px;
+    text-align: center;
+}
+
+.person{
+    
+    display: inline-block;
+    height: 400px;
+    width: 250px;
+}
+
+.circle{
+    
+    border: black 1px solid;
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+}
+
+.name{ 
+    margin-left: 50px;   
+    color: white;
+    background-color: blue;
+    width: 150px;
+}
+
+.about_him_or_her{
+    color: white;
+}
+
